@@ -58,6 +58,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>news-page-rest</finalName>
 	</build>
 
 </project>
